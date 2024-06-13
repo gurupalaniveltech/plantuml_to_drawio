@@ -1,3 +1,5 @@
+# this is forked from https://github.com/rglaue/plantuml_to_drawio.
+
 # Convert PlantUML file to Diagrams.net XML file
 
 This is a functional script, available in both perl and python, used to demonstrate how to convert a file with PlantUML code into a Diagrams.net (a.k.a Draw.io) XML file from the command line. The PlantUML code and rendered SVG are embedded into the Diagrams.net/Draw.io document.
